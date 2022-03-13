@@ -1,20 +1,18 @@
 # SuccSPred2.0
 
-### Install
+## Install
 
 ~~~shell
 pip install -r requirements.txt
 ~~~
 
----
-
-### Ten fold cross validation
+## Ten fold cross validation
 
 ~~~python
 python Inde.py
 ~~~
 
-### Independent test
+## Independent test
 
 ~~~python
 python Tenfold.py
