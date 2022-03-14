@@ -6,13 +6,13 @@
 pip install -r requirements.txt
 ~~~
 
-## Ten fold cross validation
+## Independent test
 
 ~~~python
 python Inde.py
 ~~~
 
-## Independent test
+## Ten fold cross validation
 
 ~~~python
 python Tenfold.py
